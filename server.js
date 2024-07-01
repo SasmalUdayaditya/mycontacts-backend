@@ -10,6 +10,7 @@ const port = process.env.PORT || 4500;
 //Using Middlewares
 app.use(express.json());
 app.use("/api/contacts", require("./routes/contactRoutes"));
+app.use("/api/users", require("./routes/userRoutes"));
 app.use(errorHandler);
 //app port number
 app.listen(port, () => {
