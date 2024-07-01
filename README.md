@@ -22,7 +22,7 @@ This project is a backend service for managing contacts, built with Node.js and 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/contact-backend.git
+   git clone [https://github.com/yourusername/contact-backend.git](https://github.com/SasmalUdayaditya/mycontacts-backend.git)
    cd contact-backend
    ```
 
