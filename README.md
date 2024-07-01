@@ -1,6 +1,5 @@
 
-````markdown
-# contact-backend
+## contact-backend
 
 This project is a backend service for managing contacts, built with Node.js and Express.js, and connected to MongoDB. The service exposes APIs for creating, retrieving, updating, and deleting contact information, and is designed to be deployed globally on the cloud. The project also includes JWT authentication and password hashing for secure user management.
 
@@ -26,15 +25,12 @@ This project is a backend service for managing contacts, built with Node.js and 
    git clone https://github.com/yourusername/contact-backend.git
    cd contact-backend
    ```
-````
 
 2. Install dependencies:
 
    ```bash
    npm install
    ```
-
-## Configuration
 
 ## Running the Application
 
